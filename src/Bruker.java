@@ -1,5 +1,9 @@
 
 public class Bruker {
+	String brukernavn;
 	
-	Bruker(String navn,  
+	Bruker(String brukernavn){
+		this.brukernavn=brukernavn;
+	}
+	
 }
