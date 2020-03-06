@@ -1,4 +1,5 @@
 
 public class Bruker {
-	Bruker(Navn navn, 
+	
+	Bruker(String navn,  
 }
